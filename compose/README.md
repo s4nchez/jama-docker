@@ -2,8 +2,8 @@
 
 This will:
 
- # Create an empty mysql database for Jama
- # Run tomcat with Jama installed
+1. Create an new MySQL database for Jama
+2. Run tomcat with Jama installed
 
 ### Prerequisites
 
